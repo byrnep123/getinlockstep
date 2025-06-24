@@ -127,7 +127,7 @@ export default function About() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              👉 Schedule a Call
+              Schedule a Call
             </a>
           </Button>
         </div>

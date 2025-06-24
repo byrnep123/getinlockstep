@@ -41,7 +41,7 @@ export default function Home() {
 
         <section className="space-y-4">
           <h2 className="text-2xl font-bold flex items-center justify-center gap-2">
-            🔍 I Help Early-Stage Defense Tech Teams Break Through the Noise
+            I Help Defense Tech Founders Break Through the Noise
           </h2>
           <p className="text-base md:text-lg">
             Most of my clients fall into one of two groups:
@@ -49,7 +49,7 @@ export default function Home() {
           <div className="flex flex-col md:flex-row gap-4 justify-center">
             <div className="bg-gray-50 rounded-lg p-4 flex-1">
               <div className="font-semibold flex items-center gap-2">
-                🧪 Just launched
+                Just launched
               </div>
               <div>
                 You&rsquo;ve closed funding or shipped your first product—and
@@ -58,7 +58,7 @@ export default function Home() {
             </div>
             <div className="bg-gray-50 rounded-lg p-4 flex-1">
               <div className="font-semibold flex items-center gap-2">
-                🔄 Fighting to survive
+                Fighting to survive
               </div>
               <div>
                 You&rsquo;ve built something great, but you&rsquo;re hitting a
@@ -73,12 +73,12 @@ export default function Home() {
 
         <section className="space-y-4">
           <h2 className="text-2xl font-bold flex items-center justify-center gap-2">
-            💡 Here&rsquo;s How We Get You There:
+            Here&rsquo;s How We Get You There:
           </h2>
           <ol className="text-left list-decimal list-inside space-y-2 max-w-xl mx-auto text-base md:text-lg">
             <li>
               <span className="font-semibold">
-                1 - Start with a Clarity Conversation
+                Start with a Clarity Conversation
               </span>
               <br />
               We talk through your company, your team, and who you serve. No
@@ -86,7 +86,7 @@ export default function Home() {
             </li>
             <li>
               <span className="font-semibold">
-                2 - Deep Discovery with Leadership
+                Deep Discovery with Leadership
               </span>
               <br />
               We run three focused sessions with your CEO, CTO, and Growth
@@ -95,10 +95,7 @@ export default function Home() {
               Together, we align on what success really looks like 90 days out.
             </li>
             <li>
-              <span className="font-semibold">
-                {" "}
-                3 - Full-Spectrum Assessment
-              </span>
+              <span className="font-semibold"> Full-Spectrum Assessment</span>
               <br />I combine what I learn with research and competitive insight
               to assess your position across 8 key defense-tech levers (like
               product-mission fit, GTM readiness, and strategic alignment).
@@ -110,9 +107,9 @@ export default function Home() {
               <br />
               We build a simple plan that connects your vision to:
               <ul className="list-disc list-inside ml-6 mt-2 space-y-1">
-                <li>🎯 Target customers</li>
-                <li>🛠️ Right DoD channels</li>
-                <li>📈 Clear signals of progress</li>
+                <li>Target customers</li>
+                <li>The Right DoD Field Tests and Channels</li>
+                <li>Clear signals of progress</li>
               </ul>
               <span>
                 If I&rsquo;m not the right fit for your journey, I&rsquo;ll
@@ -124,7 +121,7 @@ export default function Home() {
 
         <section className="space-y-4">
           <h2 className="text-2xl font-bold flex items-center justify-center gap-2">
-            ✅ What Success Looks Like:
+            What Success Looks Like:
           </h2>
           <ul className="text-left list-disc list-inside space-y-1 max-w-xl mx-auto text-base md:text-lg">
             <li>10x more clarity on what matters</li>
@@ -144,7 +141,7 @@ export default function Home() {
 
         <section className="space-y-4">
           <h2 className="text-2xl font-bold flex items-center justify-center gap-2">
-            ⚠️ What&rsquo;s at Stake?
+            What&rsquo;s at Stake?
           </h2>
           <p className="text-base md:text-lg">
             You&rsquo;re solving a real problem for the mission.
@@ -171,14 +168,14 @@ export default function Home() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              👉 Schedule a Session Now
+              Schedule a Session Now
             </a>
           </Button>
         </section>
 
         <section className="space-y-4 text-sm text-gray-500 mt-8">
           <div className="font-semibold">
-            🧭 Built for Founders. Focused on the Mission.
+            Built for Founders. Focused on the Mission.
           </div>
           <p>
             I&rsquo;ve helped some of the most mission-driven defense tech teams
