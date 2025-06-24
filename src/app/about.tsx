@@ -16,7 +16,7 @@ export default function About() {
           <p className="text-base md:text-lg mb-4">
             You can build a world-changing solution, spend years chasing
             programs of record, and still stall out—drowned in bureaucracy,
-            misaligned execution, or the illusion of progress.
+            misaligned execution, or BD Theater.
           </p>
         </section>
 
